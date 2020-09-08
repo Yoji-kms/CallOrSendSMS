@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Call Or Send SMS</string>
+    <string name="phone_number" translatable="false">+7 777 777–77–77</string>
+    <string name="message_text">Message text</string>
+</resources>

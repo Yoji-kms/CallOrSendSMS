@@ -1,0 +1,16 @@
+<vector
+    android:height="24dp"
+    android:viewportHeight="24"
+    android:viewportWidth="24"
+    android:width="24dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <path android:name="crop_square"
+            android:fillColor="#52AAAAAA"
+            android:pathData="M18,0L2,0c-1.1,0 -2,0.9 -2,2v20c0,1.1 0.9,2 2,2h20c1.1,0 2,-0.9 2,-2L24,2c0,-1.1 -0.9,-2 -2,-2z" />
+        <path
+            android:fillColor="#6000DDFF"
+            android:pathData="M2.01,21L23,12 2.01,3 2,10l15,2 -15,2z"
+            />
+    </group>
+</vector>
