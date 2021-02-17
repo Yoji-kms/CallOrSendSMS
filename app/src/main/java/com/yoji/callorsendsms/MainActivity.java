@@ -38,9 +38,9 @@ public class MainActivity extends AppCompatActivity {
         }
     };
 
-    private View.OnClickListener callBtnOnClickListener = v -> call();
+    private final View.OnClickListener callBtnOnClickListener = v -> call();
 
-    private View.OnClickListener sendSMSBtnOnclickListener = v -> sendSMS();
+    private final View.OnClickListener sendSMSBtnOnclickListener = v -> sendSMS();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
